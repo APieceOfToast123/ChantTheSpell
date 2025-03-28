@@ -18,6 +18,10 @@
 		{
 			"Name": "ChaosClothAssetEditor",
 			"Enabled": true
+		},
+		{
+			"Name": "MotionWarping",
+			"Enabled": true
 		}
 	]
 }
